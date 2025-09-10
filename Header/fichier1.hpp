@@ -3,3 +3,5 @@
 #include <boot>
 
 
+void close();
+
